@@ -1,0 +1,24 @@
+{
+    "liveSassCompile.settings.formats":[
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css"
+        },
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0f4a5d",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#1b0416",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "titleBar.activeBackground": "#082731",
+        "titleBar.inactiveBackground": "#08273199",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "statusBar.background": "#082731",
+        "statusBarItem.hoverBackground": "#0f4a5d",
+        "statusBar.foreground": "#e7e7e7"
+    },
+    "peacock.color": "#082731",
+}
